@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**JustMenka/JustMenka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>🦎 Rayvent / developer</h1>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br>
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nestjs,nodejs&theme=dark" alt="Languages and Systems">
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,docker,vscode,haskell&theme=dark" alt="Development Tools">
+</p>
+
+
+<br>
+
+<p align="center">
+  <img
+    width="470"
+    src="https://github-readme-stats.vercel.app/api?username=Rayvent&show_icons=true&theme=radical&hide_border=true&locale=ru"
+    alt="GitHub Stats"
+  >
+</p>
