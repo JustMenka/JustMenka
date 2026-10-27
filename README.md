@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🦎 Rayvent / developer</h1>
+<h1>JustMenka / developer</h1>
 
 </div>
 
@@ -20,7 +20,7 @@
 <p align="center">
   <img
     width="470"
-    src="https://github-readme-stats.vercel.app/api?username=Rayvent&show_icons=true&theme=radical&hide_border=true&locale=ru"
+    src="https://github-readme-stats.vercel.app/api?username=JustMenka&show_icons=true&theme=radical&hide_border=true&locale=ru"
     alt="GitHub Stats"
   >
 </p>
