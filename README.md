@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nestjs,nodejs&theme=dark" alt="Languages and Systems">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nestjs,nextjs&theme=dark" alt="Languages and Systems">
   <br>
   <img src="https://skillicons.dev/icons?i=git,docker,vscode,haskell&theme=dark" alt="Development Tools">
 </p>
